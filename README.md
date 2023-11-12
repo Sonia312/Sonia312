@@ -12,8 +12,8 @@ Welcome to my little corner of the code universe! 🚀 I'm on a journey to turn 
 
 ## 💻 Tech Toolbox
 
-- **Languages:** Java, Python
-- **Technologies:** HTML, CSS, MySQL, MongoDB, JSP
+- **Languages:** Java, Python, JavaScript
+- **Technologies:** HTML, CSS, MySQL, MongoDB, JSP, ReactJS
 - **Tools:** GIT, Linux, Windows
 
 Feel free to wander through the digital trails I've left. Contributions, suggestions, or virtual high-fives are always welcome!
