@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 👋 Hey there, I'm Sonia Dessai!
 
 Welcome to my little corner of the code universe! 🚀 I'm on a journey to turn caffeine into code and dreams into applications. Here's a glimpse into the matrix of my digital existence:
